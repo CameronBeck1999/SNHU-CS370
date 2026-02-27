@@ -1,7 +1,12 @@
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
-d
-# Connect your learning from throughout this course to the larger field of computer science:
-## What do computer scientists do and why does it matter?
 
-## How do I approach a problem as a computer scientist?
-## What are my ethical responsibilities to the end user and the organization?
+
+# Connect your learning from throughout this course to the larger field of computer science:
+### What do computer scientists do and why does it matter?
+Computer Scientists design software applications, coding, testing and maintaining it. They also research exploring and developing new technologies, algorithims, and ways to take on computational problems. Computer Scientists also create and refine algorithms to handle data sorting, searching, pattern recognition, and optimization. It matters because Computer Scientists play an important role when it comes to shaping the digital landscape and contributing to the development of cutting-edge technologies that impact everyday life. A Computer Scientist's work addresses important challenges, improve efficiency in technology, and enhance the qaulity of life as the world is continuously evolving in this technology-driven world.
+
+### How do I approach a problem as a computer scientist?
+As a computer scientist, I approach a problem by understanding clearly of what I am trying to solve. Understanding the problem is the critical step you know what are the requirements and what are the restraints for said problem. The next step is to then break down the problem into smaller parts. This makes it easier to come up with a sound solution necessary in order to handle each of the parts broken down one part at a time. Before we can move on to the next part of the problem, testing is in order to make sure it's working properly to prevent having to fix the issues later on. Once all the pieces are put together, it reveals the completion of the whole problem. As a Computer Scientist, analyzing the problem and breaking it down to pieces are crucial in order to completely tackle the problem head on and solve it altogether.
+
+### What are my ethical responsibilities to the end user and the organization?
+My ethical responsibilities to the end user is to create a safe software that's not intended to harm the users. I must also protect the user data by implementing security measures to safe guard the user's personal information and to also respect user privacy at the same time too. My responsibility also demands that I be transparent to the user about data collection, how the software works, and any potential risks that come along with using that software. As far as my responsibilities to the organization goes to the organization, I must adhere to all of the standards and practices that organization requires so that I can make the logical ethical decision in my work. Another resposibility is following the ACM Code of Ethics and making sure that stakeholders are considered during computation to uphold the company's reputation.
