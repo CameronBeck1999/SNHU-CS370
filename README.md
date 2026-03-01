@@ -1,5 +1,5 @@
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
-
+The codes that was given to me was the matrix of the maze with the occupied space within, the build model to build the nerual network for the model, the train step code to predict Q-values coming from my training of the Q-model for the pirate. For this project, I was to implement a Deep Q-learning into the treasure hunt maze game so the pirate can be instructed on how to win the game. I was given a pseudocode that provided the detailed steps on how to train the pirate agent and implemented the Deep Q-learning through two loops and necessary if-statements making sure the pirate's moves are legal, and if the game is over or not with a win or a loss.
 
 # Connect your learning from throughout this course to the larger field of computer science:
 ### What do computer scientists do and why does it matter?
